@@ -28,5 +28,6 @@ jobs:
         with:
           commit_message: Update Stats
           commit_user_name: Jose Juan
-          commit_user_main:  thronks@gmail.com
-          commit_author: Jose Juan Lopez
+          commit_user_email:  thronks@gmail.com
+          commit_author: JJ2-GITHUB
+          
