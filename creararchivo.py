@@ -1,5 +1,5 @@
 # Nombre del archivo
-nombre_archivo = "ejemplo.txt"
+nombre_archivo = "ejemplo0.txt"
 
 # Contenido que quieres escribir
 contenido = "Hola, este es un archivo de texto creado con Python."
